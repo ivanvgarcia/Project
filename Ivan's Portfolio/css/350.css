@@ -1,0 +1,12 @@
+nav a {
+	font-size: 11px;
+}
+
+a:link {
+	min-width: 48px;
+	min-height: 48px;
+}
+
+a:hover {
+	font-size: 13px;
+}
